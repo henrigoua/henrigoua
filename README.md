@@ -4,7 +4,7 @@
 <h3 align="center">I'm Goua from Ivory Coast, living in France.</h3>
 
 <p style="text-align: center; margin: 15px;">
-    <img src="https://readme-typing-svg.herokuapp.com?color=EBD41B&center=true&vCenter=true&size=30&lines=I+am">
+    <img src="https://readme-typing-svg.herokuapp.com?duration=5000&color=EBD41B&center=true&vCenter=true&size=30&lines=I+am">
 </p>
 
 <p style="margin: 15px;" align="center">
