@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Goua Beedi</h1>
 
-<p align="left">
-    <img src="https://komarev.com/ghpvc/?username=code-oz&label=Profile%20views&color=0e75b6&style=flat" alt="henrigoua" />
-</p>
-
 <!-- Intro -->
 <h3 align="center">I'm Goua from Ivory Coast, living in France.</h3>
 
