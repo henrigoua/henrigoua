@@ -2,9 +2,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=code-oz&label=Profile%20views&color=0e75b6&style=flat" alt="henrigoua" /> </p>
 <!-- Intro -->
 <p style="margin: 15px;" align="center">
-    
-    <h3 align="center">I'm Goua from Ivory Coast, living in France.</h3>
     <img src="https://readme-typing-svg.herokuapp.com?duration=2000&color=EBD41B&center=true&vCenter=true&lines=Data scientist ;Data engineer ;MSc Engineering">
+    <h3 align="center">I'm Goua from Ivory Coast, living in France.</h3>
     
 </p>
 
