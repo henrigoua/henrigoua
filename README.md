@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=code-oz&label=Profile%20views&color=0e75b6&style=flat" alt="henrigoua" /> </p>
 <!-- Intro -->
 <p style="margin: 15px;" align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?duration=3000&color=0066FF&center=true&vCenter=true&lines=Data+scientist+%3B+Data+engineer+%3B+MSc+Engineering">
+    <img src="https://readme-typing-svg.herokuapp.com?duration=3000&color=0066FF&center=true&vCenter=true&size=30&lines=Data+scientist+%3B+Data+engineer+%3B+MSc+Engineering">
     <h3 align="center">I'm Goua from Ivory Coast, living in France.</h3>
     
 </p>
